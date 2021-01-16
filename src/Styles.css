@@ -1,0 +1,23 @@
+.container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+}
+.itemContainer {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin-bottom: 10px;
+   /* align-items: ; */
+}
+.item {
+   margin-right: 5px;
+}
+.headerContainer {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin-bottom: 20px;
+}
